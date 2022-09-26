@@ -1,0 +1,15 @@
+C:\Users\mcelada\source\repos\SarazaSA\SarazaSA\bin\Debug\SarazaSA.exe.config
+C:\Users\mcelada\source\repos\SarazaSA\SarazaSA\bin\Debug\SarazaSA.exe
+C:\Users\mcelada\source\repos\SarazaSA\SarazaSA\bin\Debug\SarazaSA.pdb
+C:\Users\mcelada\source\repos\SarazaSA\SarazaSA\bin\Debug\Negocio_BLL.dll
+C:\Users\mcelada\source\repos\SarazaSA\SarazaSA\bin\Debug\Acceso_DAL.dll
+C:\Users\mcelada\source\repos\SarazaSA\SarazaSA\bin\Debug\Negocio_BLL.pdb
+C:\Users\mcelada\source\repos\SarazaSA\SarazaSA\bin\Debug\Acceso_DAL.pdb
+C:\Users\mcelada\source\repos\SarazaSA\SarazaSA\obj\Debug\SarazaSA.csprojAssemblyReference.cache
+C:\Users\mcelada\source\repos\SarazaSA\SarazaSA\obj\Debug\SarazaSA.Form1.resources
+C:\Users\mcelada\source\repos\SarazaSA\SarazaSA\obj\Debug\SarazaSA.Properties.Resources.resources
+C:\Users\mcelada\source\repos\SarazaSA\SarazaSA\obj\Debug\SarazaSA.csproj.GenerateResource.cache
+C:\Users\mcelada\source\repos\SarazaSA\SarazaSA\obj\Debug\SarazaSA.csproj.CoreCompileInputs.cache
+C:\Users\mcelada\source\repos\SarazaSA\SarazaSA\obj\Debug\SarazaSA.csproj.CopyComplete
+C:\Users\mcelada\source\repos\SarazaSA\SarazaSA\obj\Debug\SarazaSA.exe
+C:\Users\mcelada\source\repos\SarazaSA\SarazaSA\obj\Debug\SarazaSA.pdb

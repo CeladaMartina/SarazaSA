@@ -1,0 +1,6 @@
+C:\Users\mcelada\source\repos\SarazaSA\Acceso_DAL\bin\Debug\Acceso_DAL.dll
+C:\Users\mcelada\source\repos\SarazaSA\Acceso_DAL\bin\Debug\Acceso_DAL.pdb
+C:\Users\mcelada\source\repos\SarazaSA\Acceso_DAL\obj\Debug\Acceso_DAL.csprojAssemblyReference.cache
+C:\Users\mcelada\source\repos\SarazaSA\Acceso_DAL\obj\Debug\Acceso_DAL.csproj.CoreCompileInputs.cache
+C:\Users\mcelada\source\repos\SarazaSA\Acceso_DAL\obj\Debug\Acceso_DAL.dll
+C:\Users\mcelada\source\repos\SarazaSA\Acceso_DAL\obj\Debug\Acceso_DAL.pdb
